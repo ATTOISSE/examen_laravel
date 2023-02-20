@@ -1,0 +1,37 @@
+.cadre{
+    background-color: rgb(233, 245, 251);
+
+}
+.col-md-2{
+    background-color: rgb(109, 182, 235);
+ 
+}
+.col-md-5{
+    background-color: rgb(190, 213, 227);
+ 
+}
+.p1{
+    background-color: white;
+    border-bottom: 3px solid hwb(193 32% 7%);
+}
+.p2{
+    background-color: white;
+    border-bottom: 3px solid hwb(307 38% 7%);
+
+}
+.p3{
+    background-color: white;
+    border-bottom: 3px solid rgb(108, 251, 6);
+
+}
+.p4{
+    background-color: white;
+    border-bottom: 3px solid rgb(238, 59, 23);
+
+}
+h5,p,h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.graphe{
+    background-color: white;
+}
